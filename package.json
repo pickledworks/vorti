@@ -1,5 +1,5 @@
 {
-  "name": "vortigern",
+  "name": "vorti",
   "version": "0.1.2",
   "description": "A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.",
   "main": "build/server.js",

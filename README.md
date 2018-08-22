@@ -1,23 +1,23 @@
-# Vortigern
-[![Build Status](https://travis-ci.org/barbar/vortigern.svg?branch=master)](https://travis-ci.org/barbar/vortigern)
-[![Dependency Status](https://david-dm.org/barbar/vortigern.svg)]()
-[![devDependency Status](https://david-dm.org/barbar/vortigern/dev-status.svg)]()
-[![Code Climate](https://codeclimate.com/github/barbar/vortigern/badges/gpa.svg)](https://codeclimate.com/github/barbar/vortigern)
-[![GitHub issues](https://img.shields.io/github/issues/barbar/vortigern.svg)](https://github.com/barbar/vortigern/issues)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/barbar/vortigern/develop/LICENSE)
+# Vorti
+[![Build Status](https://travis-ci.org/noddigital/vorti.svg?branch=master)](https://travis-ci.org/barbar/vorti)
+[![Dependency Status](https://david-dm.org/barbar/vorti.svg)]()
+[![devDependency Status](https://david-dm.org/noddigital/vorti/dev-status.svg)]()
+[![Code Climate](https://codeclimate.com/github/noddigital/vorti/badges/gpa.svg)](https://codeclimate.com/github/barbar/vorti)
+[![GitHub issues](https://img.shields.io/github/issues/barbar/vorti.svg)](https://github.com/noddigital/vorti/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/noddigital/vorti/develop/LICENSE)
 ___
 
-<img src="https://barbaruploads.s3.amazonaws.com/bicoz/vortigern.png" width="100%" />
+<img src="https://cdn.nod.li/vorti/vortigern.png" width="100%" />
 
-**Vortigern** is our opinionated boilerplate for crafting universal web applications by using modern technologies like TypeScript, React and Redux.
+**Vorti** *(originally Vortigern)* is an opinionated boilerplate for crafting universal web applications by using modern technologies like TypeScript, React and Redux.
 
-[![TypeScript](https://barbaruploads.s3.amazonaws.com/bicoz/typescript.png)](https://www.typescriptlang.org/) 
-[![React](https://barbaruploads.s3.amazonaws.com/bicoz/react.png)](https://github.com/facebook/react) 
-[![Redux](https://barbaruploads.s3.amazonaws.com/bicoz/redux.png)](https://github.com/reactjs/redux)
+[![TypeScript](https://cdn.nod.li/vorti/typescript.png)](https://www.typescriptlang.org/) 
+[![React](https://cdn.nod.li/vorti/react.png)](https://github.com/facebook/react) 
+[![Redux](https://cdn.nod.li/vorti/redux.png)](https://github.com/reactjs/redux)
 
 
 ## Libraries
-Vortigern uses the following libraries and tools:
+Vorti uses the following libraries and tools:
 
 #### Core
 - [TypeScript](https://www.typescriptlang.org/)
@@ -121,11 +121,11 @@ Vortigern uses the following libraries and tools:
 
 ## Installation
 
-You can clone from this repository or [install the latest version](https://github.com/barbar/vortigern/releases) as a zip file or a tarball. 
+You can clone from this repository or [install the latest version](https://github.com/noddigital/vorti/releases) as a zip file or a tarball. 
 
 ```bash
-$ git clone https://github.com/barbar/vortigern
-$ cd vortigern
+$ git clone https://github.com/noddigital/vorti
+$ cd vorti
 $ npm install
 ```
 
@@ -166,18 +166,16 @@ $ typings install <package> --save
 
 ## Credits
 
-Vortigern is released under the [MIT license](LICENSE). 
+Vorti is a fork of the unmaintained [Vortigern](https://github.com/barbar/vortigern) project and is released under the same [MIT license](./LICENSE). 
 
 The image in this README belongs to [hhvferry.com](http://www.hhvferry.com/vortscrap.html).
 
 ___
 
-## [Barbar Startup Factory](https://www.barbar.com.tr/?ref=vortigern)
+### [NOD Digital](https://nod.digital/?ref=vorti)
 
-<a target="_blank" href="https://barbar.digital/?ref=vortigern-barbar-logo"><img src="https://barbaruploads.s3.amazonaws.com/bicoz/logo2x.png" height="55px" /></a>
+<a target="_blank" href="https://nod.digital/?ref=vorti-nod-logo"><img src="https://nod.digital/images/logo.png" height="55px" /></a>
 
-We help startups start and stay started by helping them plan, strategize, fund and execute their vision. 
+We are a digital product studio from Istanbul. 
 
-You can contact us at [hey@barbar.digital](mailto:hey@barbar.digital)
-
-Be sure to check out available [jobs at Barbar](https://github.com/barbar/hr).
+Feel free to get in touch with us via [hey@nod.digital](mailto:hey@nod.digital) if you need help building your idea, or just to say hi. 
